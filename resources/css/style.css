@@ -240,6 +240,11 @@ nav .menu-button {
         height: 100%;
         padding: 35px;
     }
+    .location-container {
+        width: 270px;
+        height: 270px;
+        margin: 15px auto;
+        padding: 10px;    }
 }
 
 /* --- Contact --- */
